@@ -65,3 +65,6 @@ After training, the model achieved:
 
 - **Further Options**  
   If I was to continue tyring to improve the accuracy of this model I would look into using PCA to help analyze which vairables were most impactful and remove or diminish the  least impactful.
+
+***Code Source***
+  Throughout this assignment I referenced assignments from Module 21 - Neural Networks and Deep Learning as well as reference material provided in Slack by my instructor and TA and Language models to further explain any issues faced when coding.
