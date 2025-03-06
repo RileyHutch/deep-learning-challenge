@@ -64,4 +64,4 @@ After training, the model achieved:
 - The model achieved a training accuracy of 73.00% with a loss of 0.5533.
 
 - **Further Options**  
-  If I was to continue tyring to improve the accuracy of this model I would look into using PCA to help analyze which vairables were most impactful and remove or diminish the least impactful.
+  If I was to continue tyring to improve the accuracy of this model I would look into using PCA to help analyze which vairables were most impactful and remove or diminish the  least impactful.
